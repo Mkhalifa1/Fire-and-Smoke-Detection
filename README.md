@@ -15,7 +15,7 @@ Our system employs advanced computer vision algorithms to analyze video footage 
 ![System Diagram](https://github.com/Mkhalifa1/Fire-and-Smoke-Detection/blob/main/Resources/1.jpg)
 
 ## Sequence Diagram
-![Sequence Diagram](https://github.com/Mkhalifa1/Fire-and-Smoke-Detection/blob/main/Resources/2.jpg)
+![Sequence Diagram](https://github.com/Mkhalifa1/Fire-and-Smoke-Detection/blob/main/Resources/2.png)
 
 ---
 
