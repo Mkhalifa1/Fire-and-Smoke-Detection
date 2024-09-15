@@ -54,8 +54,8 @@ By leveraging the YOLOv5 deep learning model and allowing compatibility with any
 
 ## Fire Detection Model Video
 Watch the video demonstrating the fire detection capabilities of our model:
-![Fire Detection Video](https://github.com/Mkhalifa1/Fire-and-Smoke-Detection/blob/main/Resources/video_fire.mp4)
+![Fire Detection Video](https://drive.google.com/file/d/1zI4CXgF9phwtR6fwno3njq_EfxIFI7tv/view?usp=sharing)
 
 ## Smoke Detection Model Video
 Watch the video demonstrating the smoke detection capabilities of our model:
-![Smoke Detection Video](https://github.com/Mkhalifa1/Fire-and-Smoke-Detection/blob/main/Resources/video_smoke.mp4)
+![Smoke Detection Video](https://drive.google.com/file/d/12_sbALwrgQBQeDJ_XuWQyfrDxGUbwoD1/view?usp=sharing)
